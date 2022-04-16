@@ -3,5 +3,9 @@ Phase 1 setup instructions for xmaxx and pixhawk 4
 The setup steps is at 
 https://github.com/23garyd/xmaxx-setup/tree/main
 
+GPS mission tests with F9P GPS
+![pic1](./images/xmaxx-2.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u-RKHTTs0DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The below video is the mission with GPS RTK setup with a Mashroom antena.
+
+[![pic1](./images/shoreline-park.png)](https://youtu.be/u-RKHTTs0DY)
